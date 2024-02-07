@@ -1,0 +1,391 @@
+2024.01.27 14:14:48 INFO  Started: Metals version 1.2.0 in folders 'C:\Users\Asus VivoBook 11TH\Desktop\scala_project' for client Visual Studio Code 1.85.1.
+2024.01.27 14:14:49 WARN  Build server is not auto-connectable.
+2024.01.27 14:14:49 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management\build.sbt
+2024.01.27 14:14:52 INFO  no build target found for C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management\build.sbt. Using presentation compiler with project's scala-library version: 3.3.1
+2024.01.27 14:14:53 INFO  time: code lens generation in 4.46s
+2024.01.27 14:14:59 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management\build.sbt
+2024.01.27 14:15:00 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management\build.sbt
+2024.01.27 14:15:01 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management\build.sbt
+2024.01.27 14:15:06 INFO  skipping build import with status 'Dismissed'
+2024.01.27 14:15:16 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management\build.sbt
+2024.01.27 14:15:16 INFO  skipping build import with status 'Dismissed'
+2024.01.27 14:16:27 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management\src\main\scala\MongoDBConnector.scala
+2024.01.27 14:16:33 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management\src\main\scala\MongoDBConnector.scala
+2024.01.27 14:18:33 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management\src\main\scala\MongoDBConnector.scala
+2024.01.27 14:19:19 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management\src\main\scala\Employee.scala
+2024.01.27 14:19:26 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management\src\main\scala\Employee.scala
+2024.01.27 14:19:41 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management\src\main\scala\EmployeeRepository.scala
+2024.01.27 14:19:47 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management\src\main\scala\EmployeeRepository.scala
+2024.01.27 14:20:06 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management\src\main\scala\Main.scala
+2024.01.27 14:20:13 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management\src\main\scala\Main.scala
+2024.01.27 14:23:26 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management\src\main\scala\EmployeeRepository.scala
+2024.01.27 14:23:27 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management\src\main\scala\EmployeeRepository.scala
+2024.01.27 14:25:20 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management\src\main\scala\Main.scala
+2024.01.27 14:25:22 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management\src\main\scala\Main.scala
+2024.01.27 14:25:23 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management\src\main\scala\Main.scala
+2024.01.27 14:25:49 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management\src\main\scala\Main.scala
+2024.01.27 14:25:50 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management\src\main\scala\Main.scala
+2024.01.27 14:27:34 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management\src\main\scala\Employee.scala
+2024.01.27 14:27:47 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management\src\main\scala\EmployeeRepository.scala
+2024.01.27 14:27:57 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management\src\main\scala\EmployeeRepository.scala
+2024.01.27 14:28:17 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management\src\main\scala\Main.scala
+2024.01.27 14:28:19 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management\src\main\scala\Main.scala
+2024.01.27 14:28:22 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management\src\main\scala\Main.scala
+2024.01.27 14:31:15 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management\src\main\scala\EmployeeRepository.scala
+2024.01.27 14:31:16 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management\src\main\scala\EmployeeRepository.scala
+2024.01.27 14:33:56 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management\src\main\scala\Main.scala
+2024.01.27 14:34:20 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management\src\main\scala\Main.scala
+2024.01.27 14:35:20 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management\src\main\scala\Main.scala
+2024.01.27 14:35:21 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management\src\main\scala\Main.scala
+2024.01.27 14:37:35 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management\src\main\scala\Employee.scala
+2024.01.27 14:37:36 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management\src\main\scala\Employee.scala
+2024.01.27 14:39:44 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management\src\main\scala\Main.scala
+2024.01.27 14:39:46 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management\src\main\scala\Main.scala
+2024.01.27 14:39:47 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management\src\main\scala\Main.scala
+2024.01.27 14:39:56 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management\src\main\scala\Main.scala
+2024.01.27 14:39:57 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management\src\main\scala\Main.scala
+2024.01.27 14:41:10 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management\src\main\scala\Main.scala
+2024.01.27 14:42:51 INFO  Shutting down server
+2024.01.27 14:42:51 INFO  shutting down Metals
+2024.01.27 14:42:51 INFO  Exiting server
+2024.01.27 14:43:31 INFO  Started: Metals version 1.2.0 in folders 'C:\Users\Asus VivoBook 11TH\Desktop\scala_project' for client Visual Studio Code 1.85.2.
+2024.01.27 14:43:32 WARN  Build server is not auto-connectable.
+2024.01.27 14:43:32 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management\src\main\scala\Main.scala
+2024.01.27 14:43:35 INFO  no build target found for C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.1
+janv. 27, 2024 2:43:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
+2024.01.27 14:50:12 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\gui\EmployeeGUI.scala
+2024.01.27 14:50:50 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\Main.scala
+2024.01.27 14:50:58 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management\build.sbt
+2024.01.27 14:51:13 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\build.sbt
+2024.01.27 14:51:45 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\build.sbt
+2024.01.27 14:51:58 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\Main.scala
+2024.01.27 14:52:26 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\gui\EmployeeGUI.scala
+2024.01.27 14:53:47 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\gui\EmployeeGUI.scala
+2024.01.27 14:53:53 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\gui\EmployeeGUI.scala
+2024.01.27 14:54:05 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\Main.scala
+2024.01.27 14:56:02 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\gui\EmployeeGUI.scala
+janv. 27, 2024 2:56:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 105
+2024.01.27 14:56:19 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\build.sbt
+2024.01.27 14:56:20 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\build.sbt
+2024.01.27 15:11:42 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\repository\EmployeeRepository.scala
+janv. 27, 2024 3:12:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 120
+2024.01.27 15:12:22 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\gui\EmployeeGUI.scala
+2024.01.27 15:13:28 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\repository\EmployeeRepository.scala
+2024.01.27 15:13:41 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\gui\EmployeeGUI.scala
+2024.01.27 15:13:46 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\gui\EmployeeGUI.scala
+2024.01.27 15:17:54 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\gui\EmployeeGUI.scala
+2024.01.27 15:18:54 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\build.sbt
+2024.01.27 15:19:19 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\gui\EmployeeGUI.scala
+2024.01.27 15:19:40 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\repository\EmployeeRepository.scala
+2024.01.27 15:19:55 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\repository\EmployeeRepository.scala
+2024.01.27 15:20:32 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\repository\EmployeeRepository.scala
+2024.01.27 15:20:36 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\repository\EmployeeRepository.scala
+2024.01.27 15:21:03 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\repository\EmployeeRepository.scala
+2024.01.27 15:24:48 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management\src\main\scala\Employee.scala
+2024.01.27 15:26:34 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\gui\EmployeeGUI.scala
+2024.01.27 15:26:47 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\repository\EmployeeRepository.scala
+2024.01.27 15:26:48 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\repository\EmployeeRepository.scala
+2024.01.27 15:27:51 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\gui\EmployeeGUI.scala
+janv. 27, 2024 3:28:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 304
+2024.01.27 15:28:10 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\Main.scala
+janv. 27, 2024 3:29:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 315
+2024.01.27 15:29:20 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\build.sbt
+janv. 27, 2024 3:29:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 329
+2024.01.27 15:29:55 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\repository\EmployeeRepository.scala
+2024.01.27 15:30:01 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\repository\EmployeeRepository.scala
+2024.01.27 15:33:27 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\build.sbt
+2024.01.27 15:34:01 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\gui\EmployeeGUI.scala
+2024.01.27 15:34:04 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\gui\EmployeeGUI.scala
+2024.01.27 15:34:05 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\gui\EmployeeGUI.scala
+2024.01.27 15:35:52 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\Main.scala
+2024.01.27 15:37:01 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\gui\EmployeeGUI.scala
+janv. 27, 2024 3:37:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 433
+2024.01.27 15:37:16 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\repository\EmployeeRepository.scala
+2024.01.27 15:37:25 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\Main.scala
+2024.01.27 15:37:28 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\Main.scala
+janv. 27, 2024 3:38:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 464
+2024.01.27 15:38:38 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\gui\EmployeeGUI.scala
+2024.01.27 15:38:41 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\gui\EmployeeGUI.scala
+2024.01.27 15:38:46 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\gui\EmployeeGUI.scala
+2024.01.27 15:38:47 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\gui\EmployeeGUI.scala
+2024.01.27 15:38:48 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\gui\EmployeeGUI.scala
+2024.01.27 15:39:08 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\gui\EmployeeGUI.scala
+2024.01.27 15:39:12 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\repository\EmployeeRepository.scala
+2024.01.27 15:39:15 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\Main.scala
+2024.01.27 15:39:18 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\build.sbt
+2024.01.27 15:40:22 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\build.sbt
+2024.01.27 15:40:29 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\build.sbt
+2024.01.27 15:40:30 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\build.sbt
+2024.01.27 15:40:54 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\gui\EmployeeGUI.scala
+2024.01.27 15:40:58 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\gui\EmployeeGUI.scala
+2024.01.27 15:42:33 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\gui\EmployeeGUI.scala
+2024.01.27 15:42:38 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\gui\EmployeeGUI.scala
+2024.01.27 15:42:42 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\gui\EmployeeGUI.scala
+2024.01.27 15:43:46 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\gui\EmployeeGUI.scala
+2024.01.27 15:43:48 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\gui\EmployeeGUI.scala
+2024.01.27 15:44:08 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\gui\EmployeeGUI.scala
+2024.01.27 15:45:32 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\gui\EmployeeGUI.scala
+2024.01.27 15:45:35 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\gui\EmployeeGUI.scala
+janv. 27, 2024 3:47:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 659
+2024.01.27 15:48:00 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\gui\EmployeeGUI.scala
+2024.01.27 15:48:07 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\gui\EmployeeGUI.scala
+2024.01.27 15:48:22 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\gui\EmployeeGUI.scala
+2024.01.27 15:48:26 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\gui\EmployeeGUI.scala
+janv. 27, 2024 3:48:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 715
+2024.01.27 15:49:20 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\gui\EmployeeGUI.scala
+2024.01.27 15:49:37 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\gui\EmployeeGUI.scala
+2024.01.27 15:49:43 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\gui\EmployeeGUI.scala
+janv. 27, 2024 3:54:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 763
+2024.01.27 15:55:05 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\gui\EmployeeGUI.scala
+2024.01.27 15:55:06 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\gui\EmployeeGUI.scala
+2024.01.27 15:56:26 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\gui\EmployeeGUI.scala
+2024.01.27 15:56:30 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\gui\EmployeeGUI.scala
+2024.01.27 15:56:30 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\gui\EmployeeGUI.scala
+2024.01.27 15:56:32 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\gui\EmployeeGUI.scala
+2024.01.27 15:58:51 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management\src\main\scala\models\Employee.scala
+2024.01.27 15:59:04 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management\src\main\scala\models\Employee.scala
+2024.01.27 15:59:15 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\gui\EmployeeGUI.scala
+2024.01.27 15:59:16 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\gui\EmployeeGUI.scala
+2024.01.27 15:59:19 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\gui\EmployeeGUI.scala
+janv. 27, 2024 4:02:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 849
+janv. 27, 2024 4:02:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 863
+2024.01.27 16:02:46 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\gui\EmployeeGUI.scala
+2024.01.27 16:02:47 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\gui\EmployeeGUI.scala
+2024.01.27 16:02:49 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management\src\main\scala\EmployeeRepository.scala
+2024.01.27 16:02:54 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management\src\main\scala\models\Employee.scala
+2024.01.27 16:03:28 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management\src\main\scala\models\Employee.scala
+2024.01.27 16:03:29 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management\src\main\scala\models\Employee.scala
+2024.01.27 16:03:29 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management\src\main\scala\models\Employee.scala
+2024.01.27 16:03:29 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management\src\main\scala\models\Employee.scala
+2024.01.27 16:03:29 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management\src\main\scala\models\Employee.scala
+2024.01.27 16:03:32 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management\src\main\scala\models\Employee.scala
+janv. 27, 2024 4:05:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 915
+2024.01.27 16:05:56 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\gui\EmployeeGUI.scala
+2024.01.27 16:05:58 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\gui\EmployeeGUI.scala
+2024.01.27 16:06:01 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\gui\EmployeeGUI.scala
+2024.01.27 16:06:02 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\gui\EmployeeGUI.scala
+2024.01.27 16:06:04 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\gui\EmployeeGUI.scala
+janv. 27, 2024 4:11:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 973
+2024.01.27 16:11:42 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\Main.scala
+2024.01.27 16:11:42 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\src\main\scala\Main.scala
+janv. 27, 2024 4:12:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 993
+2024.01.27 16:12:08 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management\src\main\scala\Main.scala
+2024.01.27 16:12:10 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management\src\main\scala\Main.scala
+janv. 27, 2024 4:14:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1012
+janv. 27, 2024 4:14:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1021
+janv. 27, 2024 4:14:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1026
+2024.01.27 16:18:07 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\build.sbt
+2024.01.27 16:20:23 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\build.sbt
+2024.01.27 16:22:08 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\build.sbt
+2024.01.27 16:22:13 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Desktop\scala_project\employes_management_gui\build.sbt
+2024.01.27 16:47:08 INFO  Shutting down server
+2024.01.27 16:47:08 INFO  shutting down Metals
+2024.01.27 16:47:08 INFO  Exiting server
+2024.01.27 16:47:08 ERROR Unexpected error initializing server: 
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+
+2024.02.07 08:03:48 INFO  Started: Metals version 1.2.0 in folders 'C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project' for client Visual Studio Code 1.86.0.
+2024.02.07 08:03:50 WARN  Build server is not auto-connectable.
+2024.02.07 08:03:50 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\src\main\scala\MongoDBConnector.scala
+2024.02.07 08:03:55 INFO  no build target found for C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\src\main\scala\MongoDBConnector.scala. Using presentation compiler with project's scala-library version: 3.3.1
+2024.02.07 08:03:57 INFO  time: code lens generation in 6.91s
+2024.02.07 08:09:58 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management_gui\build.sbt
+2024.02.07 08:10:14 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management_gui\build.sbt
+2024.02.07 08:12:53 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\src\main\scala\models\Employee.scala
+2024.02.07 08:14:52 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\src\main\scala\EmployeeRepository.scala
+2024.02.07 08:19:53 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management_gui\build.sbt
+2024.02.07 08:20:08 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management_gui\build.sbt
+2024.02.07 08:22:12 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management_gui\build.sbt
+2024.02.07 08:22:38 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management_gui\build.sbt
+2024.02.07 08:22:40 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management_gui\build.sbt
+2024.02.07 08:23:02 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management_gui\build.sbt
+2024.02.07 08:23:04 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management_gui\build.sbt
+2024.02.07 08:23:06 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management_gui\build.sbt
+2024.02.07 08:25:19 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management_gui\employes_management\src\main\scala\MongoDBConnector.scala
+2024.02.07 08:25:19 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management_gui\employes_management\src\main\scala\EmployeeRepository.scala
+2024.02.07 08:25:47 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\src\main\scala\MongoDBConnector.scala
+2024.02.07 08:25:47 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\src\main\scala\EmployeeRepository.scala
+2024.02.07 08:25:56 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\employes_management_gui\build.sbt
+2024.02.07 08:26:53 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management_gui\build.sbt
+2024.02.07 08:27:06 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\employes_management_gui\build.sbt
+2024.02.07 08:27:14 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management_gui\build.sbt
+2024.02.07 08:27:40 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management_gui\build.sbt
+2024.02.07 08:27:44 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management_gui\build.sbt
+2024.02.07 08:27:51 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management_gui\build.sbt
+2024.02.07 08:28:43 INFO  Shutting down server
+2024.02.07 08:28:43 INFO  shutting down Metals
+2024.02.07 08:28:43 INFO  Exiting server
+2024.02.07 10:30:24 INFO  Started: Metals version 1.2.0 in folders 'C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project' for client Visual Studio Code 1.86.0.
+2024.02.07 10:30:26 WARN  Build server is not auto-connectable.
+2024.02.07 10:30:26 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\src\main\scala\EmployeeRepository.scala
+2024.02.07 10:30:31 INFO  no build target found for C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\src\main\scala\EmployeeRepository.scala. Using presentation compiler with project's scala-library version: 3.3.1
+2024.02.07 10:30:34 INFO  time: code lens generation in 8.24s
+2024.02.07 10:32:50 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\build.sbt
+2024.02.07 10:35:16 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\src\main\scala\models\Employee.scala
+2024.02.07 10:36:02 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\src\main\scala\Main.scala
+2024.02.07 10:36:16 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\src\main\scala\MongoDBConnector.scala
+2024.02.07 10:37:37 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\src\main\scala\models\Employee.scala
+févr. 07, 2024 10:39:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 76
+2024.02.07 10:40:01 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\src\main\scala\Main.scala
+févr. 07, 2024 10:40:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 88
+2024.02.07 10:40:09 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\src\main\scala\Main.scala
+2024.02.07 10:40:15 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\src\main\scala\Main.scala
+2024.02.07 10:40:18 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\src\main\scala\Main.scala
+2024.02.07 10:40:26 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\src\main\scala\Main.scala
+2024.02.07 10:40:27 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\src\main\scala\Main.scala
+févr. 07, 2024 10:40:28 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 164
+2024.02.07 10:40:30 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\src\main\scala\Main.scala
+2024.02.07 10:40:36 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\src\main\scala\Main.scala
+2024.02.07 10:40:38 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\src\main\scala\Main.scala
+2024.02.07 10:58:41 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\src\main\java\com\example\employesmanagement\EmployeeManagementApp.java
+2024.02.07 10:58:41 WARN  Running javac-semanticdb failed for file:///C:/Users/Asus%20VivoBook%2011TH/Documents/LP_SIBD/outils_BigData/scala_project/employes_management/src/main/java/com/example/employesmanagement/EmployeeManagementApp.java. Output:
+
+févr. 07, 2024 10:59:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 203
+2024.02.07 10:59:05 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\src\main\scala\EmployeFX.scala
+févr. 07, 2024 10:59:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 208
+févr. 07, 2024 10:59:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 210
+2024.02.07 10:59:18 WARN  Running javac-semanticdb failed for file:///C:/Users/Asus%20VivoBook%2011TH/Documents/LP_SIBD/outils_BigData/scala_project/employes_management/src/main/java/com/example/employesmanagement/EmployeeManagementApp.java. Output:
+
+2024.02.07 10:59:19 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\src\main\java\com\example\employesmanagement\EmployeeManagementApp.java
+févr. 07, 2024 10:59:37 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\.metals\.reports\metals-full\2024-02-07\r_compiler-error_10-59-37-933.md
+févr. 07, 2024 10:59:39 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\.metals\.reports\metals-full\2024-02-07\r_compiler-error_10-59-39-768.md
+2024.02.07 10:59:57 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\src\main\scala\EmployeFX.scala
+2024.02.07 11:01:13 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\src\main\scala\Main.scala
+2024.02.07 11:01:17 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\src\main\scala\Main.scala
+févr. 07, 2024 11:01:22 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\.metals\.reports\metals-full\2024-02-07\r_compiler-error_11-01-22-706.md
+févr. 07, 2024 11:01:31 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\.metals\.reports\metals-full\2024-02-07\r_compiler-error_11-01-31-241.md
+févr. 07, 2024 11:01:33 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\.metals\.reports\metals-full\2024-02-07\r_compiler-error_11-01-33-149.md
+févr. 07, 2024 11:01:45 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+févr. 07, 2024 11:01:47 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\.metals\.reports\metals-full\2024-02-07\r_compiler-error_11-01-47-291.md
+févr. 07, 2024 11:01:49 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\.metals\.reports\metals-full\2024-02-07\r_compiler-error_11-01-49-470.md
+févr. 07, 2024 11:01:49 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\.metals\.reports\metals-full\2024-02-07\r_compiler-error_11-01-49-928.md
+févr. 07, 2024 11:01:50 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\.metals\.reports\metals-full\2024-02-07\r_compiler-error_11-01-50-171.md
+févr. 07, 2024 11:01:50 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\.metals\.reports\metals-full\2024-02-07\r_compiler-error_11-01-50-453.md
+févr. 07, 2024 11:02:08 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\.metals\.reports\metals-full\2024-02-07\r_compiler-error_11-02-08-843.md
+févr. 07, 2024 11:02:09 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\.metals\.reports\metals-full\2024-02-07\r_compiler-error_11-02-09-839.md
+févr. 07, 2024 11:02:16 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\.metals\.reports\metals-full\2024-02-07\r_compiler-error_11-02-16-518.md
+févr. 07, 2024 11:03:34 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\.metals\.reports\metals-full\2024-02-07\r_compiler-error_11-03-34-701.md
+2024.02.07 11:03:57 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\src\main\java\com\example\employesmanagement\EmployeeManagementApp.java
+févr. 07, 2024 11:04:23 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\.metals\.reports\metals-full\2024-02-07\r_compiler-error_11-04-23-364.md
+févr. 07, 2024 11:04:23 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\.metals\.reports\metals-full\2024-02-07\r_compiler-error_11-04-23-628.md
+févr. 07, 2024 11:04:28 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+févr. 07, 2024 11:04:35 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\.metals\.reports\metals-full\2024-02-07\r_compiler-error_11-04-35-820.md
+févr. 07, 2024 11:04:53 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\.metals\.reports\metals-full\2024-02-07\r_compiler-error_11-04-53-900.md
+févr. 07, 2024 11:05:02 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\.metals\.reports\metals-full\2024-02-07\r_compiler-error_11-05-02-642.md
+févr. 07, 2024 11:11:53 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\.metals\.reports\metals-full\2024-02-07\r_compiler-error_11-11-53-050.md
+2024.02.07 11:12:53 WARN  Running javac-semanticdb failed for file:///C:/Users/Asus%20VivoBook%2011TH/Documents/LP_SIBD/outils_BigData/scala_project/employes_management/src/main/java/com/example/employesmanagement/EmployeeManagementApp.java. Output:
+
+2024.02.07 11:12:53 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\src\main\java\com\example\employesmanagement\EmployeeManagementApp.java
+févr. 07, 2024 11:14:01 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.02.07 11:14:18 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\src\main\scala\Main.scala
+2024.02.07 11:15:00 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\src\main\scala\Main.scala
+2024.02.07 11:15:03 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\src\main\scala\Main.scala
+2024.02.07 11:15:09 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\src\main\scala\Main.scala
+2024.02.07 11:15:10 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\src\main\scala\Main.scala
+2024.02.07 11:15:14 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\src\main\scala\Main.scala
+2024.02.07 11:15:21 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\src\main\scala\Main.scala
+2024.02.07 11:19:50 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\src\main\scala\EmployeeCLI.scala
+2024.02.07 11:19:57 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\src\main\scala\EmployeeCLI.scala
+2024.02.07 11:20:02 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\src\main\scala\EmployeeCLI.scala
+2024.02.07 11:21:28 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\src\main\scala\EmployeeCLI.scala
+2024.02.07 11:21:39 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\src\main\scala\EmployeeCLI.scala
+2024.02.07 11:21:46 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\src\main\scala\EmployeeCLI.scala
+2024.02.07 11:22:01 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\src\main\scala\EmployeeCLI.scala
+2024.02.07 11:22:12 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\build.sbt
+févr. 07, 2024 11:33:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 478
+2024.02.07 11:33:58 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\src\main\scala\EmployeeRepository.scala
+2024.02.07 11:34:00 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\src\main\scala\EmployeeRepository.scala
+2024.02.07 11:34:03 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\src\main\scala\EmployeeRepository.scala
+févr. 07, 2024 11:34:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 500
+2024.02.07 11:35:24 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\src\main\scala\EmployeeRepository.scala
+2024.02.07 11:37:29 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\src\main\scala\EmployeeRepository.scala
+2024.02.07 11:37:48 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\src\main\scala\EmployeeRepository.scala
+2024.02.07 11:41:26 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\src\main\scala\EmployeeRepository.scala
+2024.02.07 11:52:22 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\src\main\scala\EmployeeRepository.scala
+2024.02.07 11:52:24 INFO  Shutting down server
+2024.02.07 11:52:24 INFO  shutting down Metals
+2024.02.07 11:52:24 INFO  Exiting server
+2024.02.07 22:35:33 INFO  Started: Metals version 1.2.0 in folders 'C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project' for client Visual Studio Code 1.86.0.
+2024.02.07 22:35:36 WARN  Build server is not auto-connectable.
+2024.02.07 22:35:36 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\src\main\scala\EmployeeRepository.scala
+2024.02.07 22:35:40 INFO  no build target found for C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\src\main\scala\EmployeeRepository.scala. Using presentation compiler with project's scala-library version: 3.3.1
+févr. 07, 2024 10:35:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+févr. 07, 2024 10:35:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+2024.02.07 22:35:41 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\src\main\scala\EmployeeRepository.scala
+2024.02.07 22:35:44 INFO  time: code lens generation in 2.92s
+2024.02.07 22:35:44 INFO  time: code lens generation in 3.13s
+2024.02.07 22:35:56 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\src\main\scala\EmployeeCLI.scala
+2024.02.07 22:36:56 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\src\main\scala\EmployeFX.scala
+2024.02.07 22:37:15 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\src\main\scala\Main.scala
+2024.02.07 22:37:35 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\src\main\scala\Main.scala
+2024.02.07 22:37:45 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\src\main\scala\Main.scala
+2024.02.07 22:38:32 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\src\main\scala\MongoDBConnector.scala
+2024.02.07 22:38:53 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\build.sbt
+2024.02.07 22:39:03 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\build.sbt
+2024.02.07 22:39:13 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\build.sbt
+2024.02.07 22:39:58 WARN  no build target for: C:\Users\Asus VivoBook 11TH\Documents\LP_SIBD\outils_BigData\scala_project\employes_management\src\main\scala\models\Employee.scala
+2024.02.07 22:44:28 INFO  Shutting down server
+2024.02.07 22:44:28 INFO  shutting down Metals
+2024.02.07 22:44:28 INFO  Exiting server
