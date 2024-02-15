@@ -1,0 +1,461 @@
+{
+    "version": "1.4.0",
+    "project": {
+        "name": "root-test",
+        "directory": "C:\\Users\\Asus VivoBook 11TH\\Desktop\\scala_project\\employes_management",
+        "workspaceDir": "C:\\Users\\Asus VivoBook 11TH\\Desktop\\scala_project\\employes_management",
+        "sources": [
+            "C:\\Users\\Asus VivoBook 11TH\\Desktop\\scala_project\\employes_management\\src\\test\\scala",
+            "C:\\Users\\Asus VivoBook 11TH\\Desktop\\scala_project\\employes_management\\src\\test\\scala-2.13",
+            "C:\\Users\\Asus VivoBook 11TH\\Desktop\\scala_project\\employes_management\\src\\test\\scala-2",
+            "C:\\Users\\Asus VivoBook 11TH\\Desktop\\scala_project\\employes_management\\src\\test\\java",
+            "C:\\Users\\Asus VivoBook 11TH\\Desktop\\scala_project\\employes_management\\target\\scala-2.13\\src_managed\\test"
+        ],
+        "dependencies": [
+            "root"
+        ],
+        "classpath": [
+            "C:\\Users\\Asus VivoBook 11TH\\Desktop\\scala_project\\employes_management\\.bloop\\root\\scala-2.13\\classes",
+            "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.12\\scala-library-2.13.12.jar",
+            "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\mongodb\\scala\\mongo-scala-driver_2.13\\4.4.0\\mongo-scala-driver_2.13-4.4.0.jar",
+            "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scalafx\\scalafx_2.13\\15.0.1-R20\\scalafx_2.13-15.0.1-R20.jar",
+            "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\openjfx\\javafx-fxml\\16\\javafx-fxml-16.jar",
+            "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\openjfx\\javafx-controls\\16\\javafx-controls-16.jar",
+            "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\apache\\pdfbox\\pdfbox\\2.0.24\\pdfbox-2.0.24.jar",
+            "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-reflect\\2.13.12\\scala-reflect-2.13.12.jar",
+            "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\mongodb\\scala\\mongo-scala-bson_2.13\\4.4.0\\mongo-scala-bson_2.13-4.4.0.jar",
+            "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\mongodb\\mongodb-driver-reactivestreams\\4.4.0\\mongodb-driver-reactivestreams-4.4.0.jar",
+            "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\openjfx\\javafx-fxml\\16\\javafx-fxml-16-win.jar",
+            "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\openjfx\\javafx-controls\\16\\javafx-controls-16-win.jar",
+            "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\openjfx\\javafx-graphics\\16\\javafx-graphics-16.jar",
+            "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\apache\\pdfbox\\fontbox\\2.0.24\\fontbox-2.0.24.jar",
+            "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\commons-logging\\commons-logging\\1.2\\commons-logging-1.2.jar",
+            "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\mongodb\\bson\\4.4.0\\bson-4.4.0.jar",
+            "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\mongodb\\mongodb-driver-core\\4.4.0\\mongodb-driver-core-4.4.0.jar",
+            "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\reactivestreams\\reactive-streams\\1.0.2\\reactive-streams-1.0.2.jar",
+            "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\io\\projectreactor\\reactor-core\\3.2.22.RELEASE\\reactor-core-3.2.22.RELEASE.jar",
+            "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\openjfx\\javafx-graphics\\16\\javafx-graphics-16-win.jar",
+            "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\openjfx\\javafx-base\\16\\javafx-base-16.jar",
+            "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\openjfx\\javafx-base\\16\\javafx-base-16-win.jar"
+        ],
+        "out": "C:\\Users\\Asus VivoBook 11TH\\Desktop\\scala_project\\employes_management\\.bloop\\root",
+        "classesDir": "C:\\Users\\Asus VivoBook 11TH\\Desktop\\scala_project\\employes_management\\.bloop\\root\\scala-2.13\\test-classes",
+        "resources": [
+            "C:\\Users\\Asus VivoBook 11TH\\Desktop\\scala_project\\employes_management\\src\\test\\resources",
+            "C:\\Users\\Asus VivoBook 11TH\\Desktop\\scala_project\\employes_management\\target\\scala-2.13\\resource_managed\\test"
+        ],
+        "scala": {
+            "organization": "org.scala-lang",
+            "name": "scala-compiler",
+            "version": "2.13.12",
+            "options": [
+                
+            ],
+            "jars": [
+                "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.12\\scala-library-2.13.12.jar",
+                "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-compiler\\2.13.12\\scala-compiler-2.13.12.jar",
+                "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-reflect\\2.13.12\\scala-reflect-2.13.12.jar",
+                "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\io\\github\\java-diff-utils\\java-diff-utils\\4.12\\java-diff-utils-4.12.jar",
+                "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\jline\\jline\\3.22.0\\jline-3.22.0.jar",
+                "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\net\\java\\dev\\jna\\jna\\5.13.0\\jna-5.13.0.jar"
+            ],
+            "setup": {
+                "order": "mixed",
+                "addLibraryToBootClasspath": true,
+                "addCompilerToClasspath": false,
+                "addExtraJarsToClasspath": false,
+                "manageBootClasspath": true,
+                "filterLibraryFromClasspath": true
+            }
+        },
+        "java": {
+            "options": [
+                
+            ]
+        },
+        "test": {
+            "frameworks": [
+                {
+                    "names": [
+                        "org.scalacheck.ScalaCheckFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.specs2.runner.Specs2Framework",
+                        "org.specs2.runner.SpecsFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.specs.runner.SpecsFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.scalatest.tools.Framework",
+                        "org.scalatest.tools.ScalaTestFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "com.novocode.junit.JUnitFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "munit.Framework"
+                    ]
+                },
+                {
+                    "names": [
+                        "zio.test.sbt.ZTestFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "weaver.framework.CatsEffect"
+                    ]
+                },
+                {
+                    "names": [
+                        "hedgehog.sbt.Framework"
+                    ]
+                }
+            ],
+            "options": {
+                "excludes": [
+                    
+                ],
+                "arguments": [
+                    
+                ]
+            }
+        },
+        "platform": {
+            "name": "jvm",
+            "config": {
+                "home": "C:\\Program Files\\Java\\jdk-21",
+                "options": [
+                    "-Duser.dir=C:\\Users\\Asus VivoBook 11TH\\Desktop\\scala_project\\employes_management"
+                ]
+            },
+            "mainClass": [
+                
+            ]
+        },
+        "resolution": {
+            "modules": [
+                {
+                    "organization": "org.scala-lang",
+                    "name": "scala-library",
+                    "version": "2.13.12",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "scala-library",
+                            "path": "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.12\\scala-library-2.13.12.jar"
+                        },
+                        {
+                            "name": "scala-library",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.12\\scala-library-2.13.12-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.mongodb.scala",
+                    "name": "mongo-scala-driver_2.13",
+                    "version": "4.4.0",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "mongo-scala-driver_2.13",
+                            "path": "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\mongodb\\scala\\mongo-scala-driver_2.13\\4.4.0\\mongo-scala-driver_2.13-4.4.0.jar"
+                        },
+                        {
+                            "name": "mongo-scala-driver_2.13",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\mongodb\\scala\\mongo-scala-driver_2.13\\4.4.0\\mongo-scala-driver_2.13-4.4.0-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.scalafx",
+                    "name": "scalafx_2.13",
+                    "version": "15.0.1-R20",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "scalafx_2.13",
+                            "path": "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scalafx\\scalafx_2.13\\15.0.1-R20\\scalafx_2.13-15.0.1-R20.jar"
+                        },
+                        {
+                            "name": "scalafx_2.13",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scalafx\\scalafx_2.13\\15.0.1-R20\\scalafx_2.13-15.0.1-R20-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.openjfx",
+                    "name": "javafx-fxml",
+                    "version": "16",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "javafx-fxml",
+                            "path": "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\openjfx\\javafx-fxml\\16\\javafx-fxml-16.jar"
+                        },
+                        {
+                            "name": "javafx-fxml",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\openjfx\\javafx-fxml\\16\\javafx-fxml-16-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.openjfx",
+                    "name": "javafx-controls",
+                    "version": "16",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "javafx-controls",
+                            "path": "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\openjfx\\javafx-controls\\16\\javafx-controls-16.jar"
+                        },
+                        {
+                            "name": "javafx-controls",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\openjfx\\javafx-controls\\16\\javafx-controls-16-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.apache.pdfbox",
+                    "name": "pdfbox",
+                    "version": "2.0.24",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "pdfbox",
+                            "path": "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\apache\\pdfbox\\pdfbox\\2.0.24\\pdfbox-2.0.24.jar"
+                        },
+                        {
+                            "name": "pdfbox",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\apache\\pdfbox\\pdfbox\\2.0.24\\pdfbox-2.0.24-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.scala-lang",
+                    "name": "scala-reflect",
+                    "version": "2.13.12",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "scala-reflect",
+                            "path": "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-reflect\\2.13.12\\scala-reflect-2.13.12.jar"
+                        },
+                        {
+                            "name": "scala-reflect",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-reflect\\2.13.12\\scala-reflect-2.13.12-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.mongodb.scala",
+                    "name": "mongo-scala-bson_2.13",
+                    "version": "4.4.0",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "mongo-scala-bson_2.13",
+                            "path": "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\mongodb\\scala\\mongo-scala-bson_2.13\\4.4.0\\mongo-scala-bson_2.13-4.4.0.jar"
+                        },
+                        {
+                            "name": "mongo-scala-bson_2.13",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\mongodb\\scala\\mongo-scala-bson_2.13\\4.4.0\\mongo-scala-bson_2.13-4.4.0-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.mongodb",
+                    "name": "mongodb-driver-reactivestreams",
+                    "version": "4.4.0",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "mongodb-driver-reactivestreams",
+                            "path": "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\mongodb\\mongodb-driver-reactivestreams\\4.4.0\\mongodb-driver-reactivestreams-4.4.0.jar"
+                        },
+                        {
+                            "name": "mongodb-driver-reactivestreams",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\mongodb\\mongodb-driver-reactivestreams\\4.4.0\\mongodb-driver-reactivestreams-4.4.0-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.openjfx",
+                    "name": "javafx-graphics",
+                    "version": "16",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "javafx-graphics",
+                            "path": "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\openjfx\\javafx-graphics\\16\\javafx-graphics-16.jar"
+                        },
+                        {
+                            "name": "javafx-graphics",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\openjfx\\javafx-graphics\\16\\javafx-graphics-16-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.apache.pdfbox",
+                    "name": "fontbox",
+                    "version": "2.0.24",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "fontbox",
+                            "path": "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\apache\\pdfbox\\fontbox\\2.0.24\\fontbox-2.0.24.jar"
+                        },
+                        {
+                            "name": "fontbox",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\apache\\pdfbox\\fontbox\\2.0.24\\fontbox-2.0.24-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "commons-logging",
+                    "name": "commons-logging",
+                    "version": "1.2",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "commons-logging",
+                            "path": "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\commons-logging\\commons-logging\\1.2\\commons-logging-1.2.jar"
+                        },
+                        {
+                            "name": "commons-logging",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\commons-logging\\commons-logging\\1.2\\commons-logging-1.2-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.mongodb",
+                    "name": "bson",
+                    "version": "4.4.0",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "bson",
+                            "path": "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\mongodb\\bson\\4.4.0\\bson-4.4.0.jar"
+                        },
+                        {
+                            "name": "bson",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\mongodb\\bson\\4.4.0\\bson-4.4.0-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.mongodb",
+                    "name": "mongodb-driver-core",
+                    "version": "4.4.0",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "mongodb-driver-core",
+                            "path": "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\mongodb\\mongodb-driver-core\\4.4.0\\mongodb-driver-core-4.4.0.jar"
+                        },
+                        {
+                            "name": "mongodb-driver-core",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\mongodb\\mongodb-driver-core\\4.4.0\\mongodb-driver-core-4.4.0-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.reactivestreams",
+                    "name": "reactive-streams",
+                    "version": "1.0.2",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "reactive-streams",
+                            "path": "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\reactivestreams\\reactive-streams\\1.0.2\\reactive-streams-1.0.2.jar"
+                        },
+                        {
+                            "name": "reactive-streams",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\reactivestreams\\reactive-streams\\1.0.2\\reactive-streams-1.0.2-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "io.projectreactor",
+                    "name": "reactor-core",
+                    "version": "3.2.22.RELEASE",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "reactor-core",
+                            "path": "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\io\\projectreactor\\reactor-core\\3.2.22.RELEASE\\reactor-core-3.2.22.RELEASE.jar"
+                        },
+                        {
+                            "name": "reactor-core",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\io\\projectreactor\\reactor-core\\3.2.22.RELEASE\\reactor-core-3.2.22.RELEASE-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.openjfx",
+                    "name": "javafx-base",
+                    "version": "16",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "javafx-base",
+                            "path": "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\openjfx\\javafx-base\\16\\javafx-base-16.jar"
+                        },
+                        {
+                            "name": "javafx-base",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\openjfx\\javafx-base\\16\\javafx-base-16-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.scala-lang",
+                    "name": "scala-library",
+                    "version": "2.13.12",
+                    "configurations": "optional",
+                    "artifacts": [
+                        {
+                            "name": "scala-library",
+                            "path": "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.12\\scala-library-2.13.12.jar"
+                        },
+                        {
+                            "name": "scala-library",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Asus VivoBook 11TH\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.12\\scala-library-2.13.12-sources.jar"
+                        }
+                    ]
+                }
+            ]
+        },
+        "tags": [
+            "test"
+        ]
+    }
+}
